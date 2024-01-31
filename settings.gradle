@@ -1,3 +1,4 @@
 rootProject.name = 'sub_module_test'
 
 include 'sub'
+include 'sub_2'
